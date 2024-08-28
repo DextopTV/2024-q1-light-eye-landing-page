@@ -10,6 +10,12 @@
 - Responsive Design
 - BEM Methodology
 
+**Techniques & Approaches Used:**
+- Semantic HTML
+- Google Fonts
+- CSS Flexbox
+- CSS Reset
+
 **Features:**
 - Displays information about various vision care services
 - Provides pricing details for different treatment packages
